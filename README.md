@@ -1,2 +1,2 @@
 # heartdemo
-Pulsing heart, add it to your sites footer. 100% CSS. 100% simple. Made with ♥.
+Pulsing heart, add this to your pages footer. 100% CSS. 100% simple. Made with ♥.
