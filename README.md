@@ -4,5 +4,6 @@ Pulsing heart animation. Add this to your sites footer.
 100% CSS.
 <br>
 100% simple. 
-<br> 
+<br>
 Made with ♥.
+
