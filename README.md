@@ -1,4 +1,4 @@
-# heartdemo
+# heart demo
 Pulsing heart animation. Add this to your sites footer. 
 <p>
 100% CSS.
