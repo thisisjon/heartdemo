@@ -1,8 +1,8 @@
 # heartdemo
 Pulsing heart animation. Add this to your sites footer. 
-</p>
+<p>
 100% CSS.
-</br>
+<br>
 100% simple. 
-</br>
+<br>
 Made with ♥.
